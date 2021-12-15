@@ -178,7 +178,7 @@ $container = get_theme_mod('understrap_container_type');
 							type
 						} = value.venue;
 
-						html += '<div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 mb-3">';
+						html += '<div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 mb-4">';
 						html += '<div class="card h-100">';
 						html += '<div class="card-body">';
 						html += '<h5 class="border-bottom pb-3 mb-3">EVENT DETAILS</h5>';
